@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1717913935406,
+      "tag": "0000_tiny_photon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1717915221907,
+      "tag": "0001_hot_dakota_north",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1718124461165,
+      "tag": "0002_tiny_power_pack",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1718192351098,
+      "tag": "0003_cold_outlaw_kid",
+      "breakpoints": true
+    }
+  ]
+}
